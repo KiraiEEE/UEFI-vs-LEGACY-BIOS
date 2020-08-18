@@ -1,10 +1,10 @@
 # UEFI-vs-LEGACY-BIOS
  
-## UEFI :
+## UEFI 🍚 :
  
 ![GitHub Logo](/IMG/UEFI.png)
 
 
-## BIOS :
+## BIOS 🍚 :
  
 ![GitHub Logo](/IMG/BIOS.png)
